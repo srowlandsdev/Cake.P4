@@ -6,9 +6,10 @@
   "commit": false,
   "contributors": [
     {
-      "login": "samrowlands",
+      "login": "samrowlandsdev",
       "name": "Sam Rowlands",
       "avatar_url": "https://avatars3.githubusercontent.com/u/349188?v=4",
+      "profile": "https://github.com/samrowlandsdev",
       "contributions": [
         "code",
         "doc"
