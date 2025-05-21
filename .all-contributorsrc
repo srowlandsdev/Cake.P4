@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "samrowlands",
+      "name": "Sam Rowlands",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/349188?v=4",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Cake.P4",
+  "projectOwner": "cake-contrib",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "commitConvention": "none",
+  "skipCi": true,
+  "commitType": "docs"
+}
