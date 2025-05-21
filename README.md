@@ -15,6 +15,16 @@
   - [Contributors](#contributors)
 - [License](#license)
 
+## Install
+
+## Usage
+
+### Adding files
+
+### Extracting files
+
+## Discussion
+
 ## Maintainer
 
 [Sam Rowlands @srowlandsdev][maintainer]
