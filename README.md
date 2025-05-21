@@ -66,3 +66,5 @@ This project follows the [all-contributors][] specification. Contributions of an
 [nuget]: https://nuget.org/packages/Cake.P4
 [nugetimage]: https://img.shields.io/nuget/v/Cake.P4.svg?logo=nuget&style=flat-square
 [license]: LICENSE.txt
+[standard-readme]: https://github.com/RichardLitt/standard-readme
+[standard-readme compliant]: https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square
